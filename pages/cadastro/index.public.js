@@ -20,7 +20,7 @@ export default function Register() {
   return (
     <DefaultLayout containerWidth="small" metadata={{ title: 'Cadastro' }}>
       <Heading as="h1" sx={{ mb: 3 }}>
-        Cadastro
+        Cadastro teste
       </Heading>
 
       <SignUpForm />
